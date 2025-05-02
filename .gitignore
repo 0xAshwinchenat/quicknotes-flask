@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Virtual environment
+venv/
+
+# Node modules
+quicknotes-frontend/node_modules/
+
+# Build
+quicknotes-frontend/build/
+.env
+.DS_Store
